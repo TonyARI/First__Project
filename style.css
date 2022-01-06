@@ -575,14 +575,14 @@ body {
     .contact__tittle h2 {
         font-size: 30px;
     }
+     .header__buttons--left a,
+     .consulting__hr a {
+         padding: 15px;
+     }
      
  }
  @media (max-width: 320px) {
      .wrap {
         word-wrap: break-word;
-     }
-     .header__buttons--left a,
-     .consulting__hr a {
-         padding: 15px;
      }
  }
